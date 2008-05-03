@@ -1,0 +1,143 @@
+﻿/* No comment provided by engineer. */
+"Check Now" = "Check Now";
+
+/* No comment provided by engineer. */
+"Go to Reader" = "Go to Reader";
+
+/* No comment provided by engineer. */
+"Preferences..." = "Preferences...";
+
+/* No comment provided by engineer. */
+"Subscribe to Feed" = "Subscribe to Feed";
+
+/* No comment provided by engineer. */
+"Updating..." = "Updating...";
+
+/* No comment provided by engineer. */
+"Checked less than 1 min ago" = "Checked less than 1 min ago";
+
+/* No comment provided by engineer. */
+"Checked 1 min ago" = "Checked 1 min ago";
+
+/* No comment provided by engineer. */
+"Checked %d min ago" = "Checked %d min ago";
+
+/* No comment provided by engineer. */
+"Checked 1 hour ago" = "Checked 1 hour ago";
+
+/* No comment provided by engineer. */
+"Checked 2 hours ago" = "Checked 2 hours ago";
+
+/* No comment provided by engineer. */
+"Checked 3 hours ago" = "Checked 3 hours ago";
+
+/* No comment provided by engineer. */
+"Checked more than 4 hours ago" = "Checked more than 4 hours ago";
+
+/* No comment provided by engineer. */
+"Thanks" = "Thanks";
+
+/* No comment provided by engineer. */
+"Error" = "Error";
+
+/* No comment provided by engineer. */
+"The feed address seems to be malformed" = "The feed address seems to be malformed";
+
+/* No comment provided by engineer. */
+"New Unread Items" = "New Unread Items";
+
+/* No comment provided by engineer. */
+"Google Reader Notifier has found a number of new items." = "Google Reader Notifier has found a number of new items.";
+
+/* No comment provided by engineer. */
+"New Subscription" = "New Subscription";
+
+/* No comment provided by engineer. */
+"Success" = "Success";
+
+/* No comment provided by engineer. */
+"You are now connected to Google" = "You are now connected to Google";
+
+/* No comment provided by engineer. */
+"Unable to connect to Google with user details" = "Unable to connect to Google with user details";
+
+/* No comment provided by engineer. */
+"Failed to connect to Google Reader. Please try again." = "Failed to connect to Google Reader. Please try again.";
+
+/* No comment provided by engineer. */
+"Warning" = "Warning";
+
+/* No comment provided by engineer. */
+"There are new unread items available online. Mark all as read has been canceled." = "There are new unread items available online. Mark all as read has been canceled.";
+
+/* No comment provided by engineer. */
+"It seems you do not have a password in the Keychain. Please go to the preferences now and supply your password" = "It seems you do not have a password in the Keychain. Please go to the preferences now and supply your password";
+
+/* No comment provided by engineer. */
+"It seems you do not have a username filled in. Please go to the preferences now and supply your username" = "It seems you do not have a username filled in. Please go to the preferences now and supply your username";
+
+/* No comment provided by engineer. */
+"Authentication error" = "Authentication error";
+
+/* No comment provided by engineer. */
+"No user" = "No user";
+
+/* No comment provided by engineer. */
+"We cannot find your user, which is pretty strange. Report this if you are sure to be connected to the internet." = "We cannot find your user, which is pretty strange. Report this if you are sure to be connected to the internet.";
+
+/* No comment provided by engineer. */
+"Unread Items: %d+" = "Unread Items: %d+";
+
+/* No comment provided by engineer. */
+"%d+ Unread" = "%d+ Unread";
+
+/* No comment provided by engineer. */
+"Unread Items: %d" = "Unread Items: %d";
+
+/* No comment provided by engineer. */
+"%d Unread" = "%d Unread";
+
+/* No comment provided by engineer. */
+"No unread items" = "No unread items";
+
+/* No comment provided by engineer. */
+"More than %d unread items" = "More than %d unread items";
+
+/* No comment provided by engineer. */
+"Mark item as read" = "Mark item as read";
+
+/* No comment provided by engineer. */
+"Star item and mark as read" = "Star item and mark as read";
+
+/* No comment provided by engineer. */
+"Title: %@\nFeed: %@\nGoes to: %@%@" = "Title: %@\nFeed: %@\nGoes to: %@%@";
+
+/* No comment provided by engineer. */
+"Open all items" = "Open all items";
+
+/* No comment provided by engineer. */
+"Mark all as read" = "Mark all as read";
+
+/* No comment provided by engineer. */
+"There are more unread items online in the Google Reader interface. This function will cause Google Reader Notifier to mark all as read - whether or not they are visible in the menubar" = "There are more unread items online in the Google Reader interface. This function will cause Google Reader Notifier to mark all as read - whether or not they are visible in the menubar";
+
+/* No comment provided by engineer. */
+"Warning, items online will be marked read" = "Warning, items online will be marked read";
+
+/* No comment provided by engineer. */
+"Mark all as read has been disabled" = "Mark all as read has been disabled";
+
+/* No comment provided by engineer. */
+"More unread items exist" = "More unread items exist";
+
+/* No comment provided by engineer. */
+"TorrentCast Error" = "TorrentCast Error";
+
+/* No comment provided by engineer. */
+"Reader Notifier has found a new TorrentCast. However we are unable to download it because the folder you've specified does not exists. Please choose a new folder in the preferences. In addition, TorrentCasting has been disabled." = "Reader Notifier has found a new TorrentCast. However we are unable to download it because the folder you've specified does not exists. Please choose a new folder in the preferences. In addition, TorrentCasting has been disabled.";
+
+/* No comment provided by engineer. */
+"Please fill in your Google Account login in the preference pane" = "Please fill in your Google Account login in the preference pane";
+
+/* No comment provided by engineer. */
+"In order to connect to your feed you need to type in your username and password." = "In order to connect to your feed you need to type in your username and password.";

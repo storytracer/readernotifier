@@ -1,0 +1,143 @@
+﻿/* No comment provided by engineer. */
+"Check Now" = "Проверить сейчас";
+
+/* No comment provided by engineer. */
+"Go to Reader" = "Перейти в Reader";
+
+/* No comment provided by engineer. */
+"Preferences..." = "Настройки...";
+
+/* No comment provided by engineer. */
+"Subscribe to Feed" = "Подписаться на поток";
+
+/* No comment provided by engineer. */
+"Updating..." = "Проверяю...";
+
+/* No comment provided by engineer. */
+"Checked less than 1 min ago" = "Проверено меньше 1 мин назад";
+
+/* No comment provided by engineer. */
+"Checked 1 min ago" = "Проверено 1 мин назад";
+
+/* No comment provided by engineer. */
+"Checked %d min ago" = "Проверено %d мин назад";
+
+/* No comment provided by engineer. */
+"Checked 1 hour ago" = "Проверено 1 ч назад";
+
+/* No comment provided by engineer. */
+"Checked 2 hours ago" = "Проверено 2 ч назад";
+
+/* No comment provided by engineer. */
+"Checked 3 hours ago" = "Проверено 3 ч назад";
+
+/* No comment provided by engineer. */
+"Checked more than 4 hours ago" = "Проверено более 4 ч назад";
+
+/* No comment provided by engineer. */
+"Thanks" = "Спасибо";
+
+/* No comment provided by engineer. */
+"Error" = "Ошибка";
+
+/* No comment provided by engineer. */
+"The feed address seems to be malformed" = "Неверный адрес потока";
+
+/* No comment provided by engineer. */
+"New Unread Items" = "Новые непрочитанные сообщения";
+
+/* No comment provided by engineer. */
+"Google Reader Notifier has found a number of new items." = "Google Reader Notifier нашел несколько новых сообщений.";
+
+/* No comment provided by engineer. */
+"New Subscription" = "Новая подписка";
+
+/* No comment provided by engineer. */
+"Success" = "Успешно";
+
+/* No comment provided by engineer. */
+"You are now connected to Google" = "Установлено соединение с Google";
+
+/* No comment provided by engineer. */
+"Unable to connect to Google with user details" = "Не могу подлючится к Google с этими данными";
+
+/* No comment provided by engineer. */
+"Failed to connect to Google Reader. Please try again." = "Не могу подключится к Google Reader. Попробуйте, пожалуйста, позже.";
+
+/* No comment provided by engineer. */
+"Warning" = "Внимание";
+
+/* No comment provided by engineer. */
+"There are new unread items available online. Mark all as read has been canceled." = "Имеются новые непрочитанные сообщения. Макркировка всех как прочитанных была отменена.";
+
+/* No comment provided by engineer. */
+"It seems you do not have a password in the Keychain. Please go to the preferences now and supply your password" = "В Связке ключей нет вашего пароля. Перейдите в настройки и предоставьте его";
+
+/* No comment provided by engineer. */
+"It seems you do not have a username filled in. Please go to the preferences now and supply your username" = "Не введено имя пользователя. Перейдите в настройки и предоставьте его";
+
+/* No comment provided by engineer. */
+"Authentication error" = "Ошибка авторизации";
+
+/* No comment provided by engineer. */
+"No user" = "Нет пользователя";
+
+/* No comment provided by engineer. */
+"We cannot find your user, which is pretty strange. Report this if you are sure to be connected to the internet." = "Не могу найти пользователя. Сообщите об этой ошибке, если вы уверены, что подключены к сети.";
+
+/* No comment provided by engineer. */
+"Unread Items: %d+" = "Непрочитанных сообщений: более %d";
+
+/* No comment provided by engineer. */
+"%d+ Unread" = "Более %d не прочитано";
+
+/* No comment provided by engineer. */
+"Unread Items: %d" = "Непрочитанных сообщений: %d";
+
+/* No comment provided by engineer. */
+"%d Unread" = "%d не прочитано";
+
+/* No comment provided by engineer. */
+"No unread items" = "Нет непрочитанныых сообщений";
+
+/* No comment provided by engineer. */
+"More than %d unread items" = "Более %d непрочитанных сообщений";
+
+/* No comment provided by engineer. */
+"Mark item as read" = "Маркировать сообщение как прочитанное";
+
+/* No comment provided by engineer. */
+"Star item and mark as read" = "Добавить в избранное и маркировать как прочитанное";
+
+/* No comment provided by engineer. */
+"Title: %@\nFeed: %@\nGoes to: %@%@" = "Имя: %@\nПоток: %@\nВ: %@%@";
+
+/* No comment provided by engineer. */
+"Open all items" = "Открыть все сообщения";
+
+/* No comment provided by engineer. */
+"Mark all as read" = "Маркировать все как прочитанные";
+
+/* No comment provided by engineer. */
+"There are more unread items online in the Google Reader interface. This function will cause Google Reader Notifier to mark all as read - whether or not they are visible in the menubar" = "В Google Reader еще остались непрочитанные сообщения. Эта опция позволит Google Reader Notifier маркировать все как прочитанные, вне зависимости от того, видны ли они в строке меню";
+
+/* No comment provided by engineer. */
+"Warning, items online will be marked read" = "Внимание, сообщения доступные через Google Reader будут маркированы как прочитанные";
+
+/* No comment provided by engineer. */
+"Mark all as read has been disabled" = "Маркировка всех как прочитанных была отключена";
+
+/* No comment provided by engineer. */
+"More unread items exist" = "Имеются непрочитанные сообщения";
+
+/* No comment provided by engineer. */
+"TorrentCast Error" = "Ошибка торрент-потока";
+
+/* No comment provided by engineer. */
+"Reader Notifier has found a new TorrentCast. However we are unable to download it because the folder you've specified does not exists. Please choose a new folder in the preferences. In addition, TorrentCasting has been disabled." = "Reader Notifier обнаружил торрент-поток, но не смог скачать торрент-файл, так как указанная папка не существует. Пожалуйста, укажите новую папку в настройках. Торрент-потоки были также отключены.";
+
+/* No comment provided by engineer. */
+"Please fill in your Google Account login in the preference pane" = "Пожалуйста, введите данные вашей учетной запсиси Google в настройках";
+
+/* No comment provided by engineer. */
+"In order to connect to your feed you need to type in your username and password." = "Чтобы подключиться к потоку вы должны ввести свое имя пользователя и пароль.";
