@@ -304,7 +304,7 @@
 							<real>185</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>225 92 1004 673 0 0 1280 778 </string>
+						<string>224 93 1004 673 0 0 1280 778 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -341,7 +341,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {797, 0}}</string>
 								<key>RubberWindowFrame</key>
-								<string>225 92 1004 673 0 0 1280 778 </string>
+								<string>224 93 1004 673 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -361,7 +361,7 @@
 								<key>Frame</key>
 								<string>{{0, 5}, {797, 627}}</string>
 								<key>RubberWindowFrame</key>
-								<string>225 92 1004 673 0 0 1280 778 </string>
+								<string>224 93 1004 673 0 0 1280 778 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -385,9 +385,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>C736424B0DCC1BAF00A00FED</string>
+				<string>C73642950DCC25DF00A00FED</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>C736424C0DCC1BAF00A00FED</string>
+				<string>C73642960DCC25DF00A00FED</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -519,10 +519,10 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>/Users/troelsbay/Projects/Reader Notifier/Reader Notifier.xcodeproj</string>
+		<string>/Users/troelsbay/Projects/Reader Notifier/trunk/Reader Notifier.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>225 92 1004 673 0 0 1280 778 </string>
+	<string>224 93 1004 673 0 0 1280 778 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

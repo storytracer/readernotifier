@@ -147,8 +147,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 231480234;
-			PBXWorkspaceStateSaveDate = 231480234;
+			PBXPerProjectTemplateStateSaveDate = 231482858;
+			PBXWorkspaceStateSaveDate = 231482858;
 		};
 		sourceControlManager = C7C90A4F0AFA78AF0080D14F /* Source Control */;
 		userBuildSettings = {
@@ -227,6 +227,7 @@
 		fallbackIsa = XCSourceControlManager;
 		isSCMEnabled = 0;
 		scmConfiguration = {
+			repositoryName = "Reader Notifier";
 		};
 		scmType = "";
 	};
