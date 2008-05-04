@@ -68,11 +68,12 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					558,
+					534,
 					20,
 					48,
 					43,
 					43,
+					20,
 					20,
 				);
 				PBXFileTableDataSourceColumnsKey = (
@@ -83,6 +84,7 @@
 					PBXFileDataSource_Errors_ColumnID,
 					PBXFileDataSource_Warnings_ColumnID,
 					PBXFileDataSource_Target_ColumnID,
+					PBXFileDataSource_SCM_ColumnID,
 				);
 			};
 			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
@@ -147,8 +149,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 231482858;
-			PBXWorkspaceStateSaveDate = 231482858;
+			PBXPerProjectTemplateStateSaveDate = 231590903;
+			PBXWorkspaceStateSaveDate = 231590903;
 		};
 		sourceControlManager = C7C90A4F0AFA78AF0080D14F /* Source Control */;
 		userBuildSettings = {
@@ -172,7 +174,7 @@
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {684, 756}}";
 			sepNavSelRange = "{1158, 0}";
-			sepNavVisRange = "{0, 1168}";
+			sepNavVisRange = "{491, 1008}";
 			sepNavVisRect = "{{0, 37}, {704, 604}}";
 			sepNavWindowFrame = "{{297, 80}, {743, 698}}";
 		};

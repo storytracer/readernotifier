@@ -73,6 +73,9 @@
 		C7137ADA0C6A222D00A69B3C /* Sparkle.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Sparkle.framework; sourceTree = "<group>"; };
 		C730B3E90AFA9AEA00614F08 /* error.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = error.png; sourceTree = "<group>"; };
 		C74A91BD0C6C5D9E004BF883 /* nounreadalt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nounreadalt.png; sourceTree = "<group>"; };
+		C7951A530DCC6DFF00141D58 /* Danish */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = Danish; path = Danish.lproj/MainMenu.nib; sourceTree = "<group>"; };
+		C7951A5A0DCC6E3000141D58 /* Danish */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Danish; path = Danish.lproj/Localizable.strings; sourceTree = "<group>"; };
+		C7951A810DCC6F9E00141D58 /* Danish */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Danish; path = Danish.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		C7B3E2090DA900B400B29ECA /* bwerror.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bwerror.png; sourceTree = "<group>"; };
 		C7C90A520AFA78F70080D14F /* English */ = {isa = PBXFileReference; lastKnownFileType = wrapper.nib; name = English; path = English.lproj/MainMenu.nib; sourceTree = "<group>"; };
 		C7C90A540AFA790F0080D14F /* beep.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = beep.aiff; sourceTree = "<group>"; };
@@ -236,6 +239,7 @@
 				French,
 				German,
 				Russian,
+				Danish,
 			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* Reader Notifier */;
 			projectDirPath = "";
@@ -287,6 +291,7 @@
 			children = (
 				089C165DFE840E0CC02AAC07 /* English */,
 				9A8BB46F0DCA43F8003AD06B /* Russian */,
+				C7951A810DCC6F9E00141D58 /* Danish */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -296,6 +301,7 @@
 			children = (
 				9A8BB4710DCA43F8003AD06B /* Russian */,
 				9A9876440DCABC01000E61CA /* English */,
+				C7951A5A0DCC6E3000141D58 /* Danish */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -305,6 +311,7 @@
 			children = (
 				C7C90A520AFA78F70080D14F /* English */,
 				9A8BB4720DCA43F8003AD06B /* Russian */,
+				C7951A530DCC6DFF00141D58 /* Danish */,
 			);
 			name = MainMenu.nib;
 			sourceTree = "<group>";
