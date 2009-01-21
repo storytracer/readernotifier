@@ -16,13 +16,13 @@
 // 27 with special icons, 29 else
 #define ourStatusItemWithLength 29 
 
-#define versionBuildNumber 109
+#define versionBuildNumber 110
 #define indexOfPreviewFields 4
 #define itemsExclPreviewFields 6
 #define maxLettersInSummary 500
 #define maxLettersInSource 20
 
-#define runningDebug 1
+#define runningDebug 0
 
 
 // disregard
@@ -1698,7 +1698,6 @@ return [prefs valueForKey:@"storedSID"];
 			currentlyFetchingAndUpdating = YES;
 		
 			[statusItem setMenu:tempMenuSec];
-			///*
 			
 			if ([[prefs valueForKey:@"showCount"] boolValue] == YES) {
 				[statusItem setAttributedTitle:[self makeAttributedStatusItemString:[NSString stringWithFormat:@"%d",[results count]-1]]];
@@ -1706,9 +1705,9 @@ return [prefs valueForKey:@"storedSID"];
 			
 			
 			int index = [ids indexOfObjectIdenticalTo:[sender title]];
-			// if (runningDebug == 1) NSLog(@"Index is %d", index);
+			if (runningDebug == 1) NSLog(@"Index is %d", index);
 			
-			// if (runningDebug == 1) NSLog(@"NUMBER OF ITEMS IS, %d", [GRMenu numberOfItems]);
+		    if (runningDebug == 1) NSLog(@"NUMBER OF ITEMS IS, %d", [GRMenu numberOfItems]);
 			if ([GRMenu numberOfItems] == 9) {
 				[GRMenu removeItemAtIndex:index+indexOfPreviewFields];
 				[GRMenu removeItemAtIndex:index+indexOfPreviewFields]; // the shaddow (optional-click

@@ -36,9 +36,9 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.09</string>
+	<string>1.10</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.09</string>
+	<string>1.10</string>
 	<key>LSUIElement</key>
 	<string>1</string>
 	<key>NSMainNibFile</key>
