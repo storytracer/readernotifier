@@ -1,0 +1,39 @@
+This is a fork of Troels Bay's *Reader Notifier* on Google Code to push active development on the project. Like the original it is released under GPL.
+
+h3. Download
+
+Download the current Version 1.11 with **Snow Leopard** support right here:
+
+http://cloud.github.com/downloads/canbuffi/readernotifier/Reader_Notifier_1.11.zip
+
+__Here are the original FAQs from Troels Bay's site:__
+
+h1. Reader Notifier
+
+*Reader Notifier* aims to supplement the official Mac Notifier menubar plugins for OS X, in adding support for Google Reader. *Reader Notifier* tells you when you have new unread rss/feed items available, and lets you visit those feeds without ever going to the Google Reader interface.
+
+h3. Disclaimer and other information
+
+This software is open source under the GPL license. It basically means that you can do whatever you like with the source code, but you have to keep it open source, and released under GPL if you redistribute it.
+If this piece of software somehow breaks your computer, I cannot be held responsible. However, it is highly doubtful that it could ever do any harm apart from crashing itself in a worst case scenario. 
+
+h3. Troubleshooting
+
+One user has noted that upon new releases, he sometimes had to erase the preference file to avoid crashes. I still haven't located this bug, but please report back if you have the same issue. Preference file is located at ~/Library/Preferences/com.bay.ReaderNotifier.plist
+
+h3. Q&A
+
+Reader Notifier is provided as is. It should be fairly easy to understand the application and as such it does not need a help file. However, this section is for things perhaps not so obvious for the ordinary user:
+
+    * I want to be able to choose more than one label to look for! Well yes, while that is a mighty fine idea, Reader Notifier is made with the philosophy of as little post-processing as possible (to keep your computer clean of unnecessary CPU-cycles). So as long as Google does not have the option of viewing several labels at a single time in the Google Reader interface, it will not be a feature of Reader Notifier either. However, as a workaround, you can just make a new label and add it to all the feeds you want Reader Notifier to check. It is indeed possible for one single feed to have multiple labels.
+    * I want Reader Notifier to startup automatically! Okay then, you should go to System Preferences > Accounts > Login Items, and then drag the Application icon into the list.
+    * I want to disable growl notifictions! Go to System Preferences -> Growl, and uncheck the box at Reader Notifier. Expect never to be bothered again.
+    * I want - insert something here - to be implemented! Well that's probably a nice idea, but I won't know until you let me know! Why not use the comment function below?.
+
+h3. Please help if you can
+
+If you are of a creative nature, and want to make new menubar icons (or enhance the existing once) please send me suggestions! Especially the BW image displayed when no unread items exists is a bit rough.
+
+h3. Contact and About
+
+Reader Notifier is made by Troels Bay, an independent developer living in Europe. Please donate if you enjoy and find the app useful. If you want to do business feel free to skip through my resume at linkedin. 
