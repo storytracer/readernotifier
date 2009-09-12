@@ -309,7 +309,7 @@
 - (NSString *)sendConnectionRequest:(NSString *)urlToConnectTo:(BOOL)handleCookies:(NSString *)cookieValue:(NSString *)theHTTPMethod:(NSString *)theHTTPBody
 {
 
-	NSError *error;
+	NSError *error = nil;
 	NSURLResponse *response;
 	NSData *dataReply;
 	NSString *stringReply;
@@ -353,7 +353,7 @@
 
 	// http://www.google.com/reader/api/0/unread-count?all=true&autorefresh=true&output=json&ck=1165697710220&client=scroll
 
-	NSError *newError;
+	NSError *newError = nil;
 	NSURLResponse *newResponse;
 	NSData *newDataReply;
 	// NSString *newReply;
@@ -487,7 +487,7 @@
 	
 	/* new */
 	
-	NSError *newError;
+	NSError *newError = nil;
 	NSURLResponse *newResponse;
 	NSData *newDataReply;
 	
@@ -1101,7 +1101,7 @@
 {
 
 
-				NSError *error;
+				NSError *error = nil;
 				NSURLResponse *response;
 				NSData *dataReply;
 				NSMutableURLRequest *DownloadRequest = [NSMutableURLRequest  requestWithURL: [NSURL URLWithString:url]];
