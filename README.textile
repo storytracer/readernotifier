@@ -4,7 +4,7 @@ h3. Download
 
 Download the current Version 1.11 with **Snow Leopard** support right here:
 
-http://cloud.github.com/downloads/canbuffi/readernotifier/Reader_Notifier_1.11.zip
+"Reader_Notifier_1.11.zip":http://cloud.github.com/downloads/canbuffi/readernotifier/Reader_Notifier_1.11.zip
 
 __Here are the original FAQs from Troels Bay's site:__
 
