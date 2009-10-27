@@ -1028,7 +1028,7 @@
 		if (moreUnreadExistInGRInterface == YES) {
 			[statusItem setLength:NSVariableStatusItemLength];
 			// [statusItem setTitle:[NSString stringWithFormat:@"%d+",[results count]]];
-			[statusItem setAttributedTitle:[self makeAttributedStatusItemString:[NSString stringWithFormat:@"%d+",totalUnreadItemsInGRInterface]]];
+			[statusItem setAttributedTitle:[self makeAttributedStatusItemString:[NSString stringWithFormat:@"%d",totalUnreadItemsInGRInterface]]];
 		} else if ([results count] > 0) {
 			[statusItem setLength:NSVariableStatusItemLength];			
 			// [statusItem setTitle:[NSString stringWithFormat:@"%d",[results count]]];
@@ -1045,8 +1045,8 @@
 	
 	if (moreUnreadExistInGRInterface == YES) {
 		// [statusItem setToolTip:[NSString stringWithFormat:@"Unread Items: %d+",[results count]]];
-		[statusItem setToolTip:[NSString stringWithFormat:NSLocalizedString(@"Unread Items: %d+",nil),totalUnreadItemsInGRInterface]];
-		[self displayTopMessage:[NSString stringWithFormat:NSLocalizedString(@"%d+ Unread",nil),totalUnreadItemsInGRInterface]];
+		[statusItem setToolTip:[NSString stringWithFormat:NSLocalizedString(@"Unread Items: %d",nil),totalUnreadItemsInGRInterface]];
+		[self displayTopMessage:[NSString stringWithFormat:NSLocalizedString(@"%d Unread",nil),totalUnreadItemsInGRInterface]];
 	} else if ([results count] > 0) {
 		[statusItem setToolTip:[NSString stringWithFormat:NSLocalizedString(@"Unread Items: %d",nil),[results count]]];
 		[self displayTopMessage:[NSString stringWithFormat:NSLocalizedString(@"%d Unread",nil),[results count]]];
