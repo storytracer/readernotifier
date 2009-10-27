@@ -51,7 +51,6 @@
 	
 	[self setupEventHandlers];
 	
-	
 	NSMutableDictionary *defaultPrefs = [NSMutableDictionary dictionary];
 	
 	[defaultPrefs setObject:@"20" forKey:@"maxItems"];
@@ -345,7 +344,7 @@
 
 - (int)getUnreadCount
 {
-
+  
 	if (runningDebug == 1) if (runningDebug == 1) NSLog(@"Total count (getUnreadCount) method initiated");
 
 	// since .99 this has provided a memory error (case of Moore).
@@ -396,7 +395,7 @@
 		{
 			// [tempArray5 addObjectsFromArray:[atomdoc2 objectsForXQuery:@"/object/list/object/number/text()" error:NULL]];
 			// [tempArray5 addObjectsFromArray:[atomdoc2 objectsForXQuery:@"for $x in /object/list/object where $x/string[contains(., 'feed/http://')] return $x/number/text()" error:NULL]];	
-			[tempArray5 addObjectsFromArray:[atomdoc2 objectsForXQuery:@"for $x in /object/list/object where $x/string[contains(., 'feed/http://')] return $x/number[@name=\"count\"]/text()" error:NULL]];  // peters add
+			[tempArray5 addObjectsFromArray:[atomdoc2 objectsForXQuery:@"for $x in /object/list/object where $x/string[contains(., 'reading-list')] return $x/number[@name=\"count\"]/text()" error:NULL]];  // peters add
 		} else {
 
 			if (runningDebug == 1) if (runningDebug == 1) NSLog(@"getUnreadCount haslabel");
